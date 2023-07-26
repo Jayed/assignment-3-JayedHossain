@@ -3,8 +3,9 @@ tailwind.config = {
       extend: {
         colors: {
           clifford: '#da373d',
-          'gradient-start': '#F00',
-          'gradient-end': '#FF8938',
+          'gradient-start': '',
+          'gradient-end': '',
+          'primary-color': '#F85559',
         }
       }
     }
