@@ -6,6 +6,7 @@ tailwind.config = {
         "gradient-start": "",
         "gradient-end": "",
         "primary-color": "#F85559",
+        "secondary-color": "#121212",
       },
     },
   },
